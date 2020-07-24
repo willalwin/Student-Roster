@@ -8,5 +8,5 @@ The program must contain five classes (i.e., Student, SecurityStudent, NetworkSt
 
 Language: C++, built in Visual Studio 2019
 
-Usage: Save solution file and open/run in Visual Studio
+Usage: Download files and open/run in Visual Studio
 
